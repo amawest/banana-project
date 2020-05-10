@@ -6,7 +6,9 @@
 </p>
 
 ## Demos
-[R Data Visualization](https://clarkdatalabs.github.io/banana-project/R_Banana_Project/docs/)
+[R Data Visualization](https://amawest.github.io/banana-project/R_Banana_Project/docs/)
+
+[Homeless](https://amawest.github.io/banana-project/R_Banana_Project/docs/homeless)
 
 [Python Line Chart Visualization](https://clarkdatalabs.github.io/banana-project/Python_Banana_Project/docs/linechart/)
 
